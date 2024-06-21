@@ -1,4 +1,28 @@
-## Hi there 👋
+## Hi! I'm Yeider 👋
+Full stack JavaScript developer and lover of technology and programming.
+
+If you wanna know me better, visit my [**portfolio**](https://yeider.vercel.app).
+
+
+## Stack 🚀
+**Front:** `React` `NextJS` `Astro` `ReactNative` `Tailwind`
+
+**Back:** `NodeJS` `Express` `TypeScript` `Java` `Bash` `C`
+
+**Database:** `Postgresql` `Mysql` `SQLite` `MongoDB` `Realm`
+
+**Test:** `Vitest` `Jest`
+
+**Tools:** `Firebase` `Figma` `VsCode` `Railway` `Netlify` `Linux`
+
+
+## Contact 📬
+- **Gmail:** [yeiderdev@gmail.com](mailto:yeiderdev@gmail.com)
+
+- **LinkedIn:** [https://www.linkedin.com/in/yeider-pe%C3%B1a-640311230/](https://www.linkedin.com/in/yeider-pe%C3%B1a-640311230/)
+
+- **Twitter:** [@Y117536434](https://x.com/Y117536434)
+
 
 <!--
 **Ye1der/Ye1der** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
