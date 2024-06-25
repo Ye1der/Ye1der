@@ -1,6 +1,8 @@
 ## Hi! I'm Yeider 👋
 Full stack JavaScript developer and lover of technology and programming.
 
++2 years of experience doing personal projects and helping other developers to solve problems in both frontend and backend. I have also tutored web programming and object oriented programming at my university
+
 If you wanna know me better, visit my [**portfolio**](https://yeider.vercel.app).
 
 
