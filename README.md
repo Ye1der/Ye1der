@@ -1,42 +1,47 @@
-## Hi! I'm Yeider 👋
-Full stack JavaScript developer and lover of technology and programming.
+# Hola, soy Yeider 👋
 
-+2 years of experience doing personal projects and helping other developers to solve problems in both frontend and backend. I have also tutored web programming and object oriented programming at my university
+### Desarollador fullstack con foco en backend
 
-If you wanna know me better, visit my [**portfolio**](https://yeider.vercel.app).
+Diseño y construyo sistemas orientados a producción, con énfasis en lógica backend, automatización e integración entre servicios. Mi trabajo se centra en resolver problemas operativos reales, no solo en construir interfaces.
 
+### Me interesa especialmente:
 
-## Stack 🚀
-**Front:** `React` `NextJS` `Astro` `ReactNative` `Tailwind`
+* Integración de sistemas (APIs, bots, servicios externos)
+* Arquitectura backend y consistencia de datos
+* Automatización de procesos
+* Experiencia de desarrollador y mantenibilidad
 
-**Back:** `NodeJS` `Express` `TypeScript` `Java` `Bash` `C`
+La mayoría de mis proyectos parten de un problema concreto y evolucionan hacia sistemas estructurados, con reglas de negocio claras, persistencia y capacidad de crecimiento.
 
-**Database:** `Postgresql` `Mysql` `SQLite` `MongoDB` `Realm`
+## Enfoque técnico ⚙️
 
-**Test:** `Vitest` `Jest`
+### Stack principal
 
-**Tools:** `Firebase` `Figma` `VsCode` `Railway` `Netlify` `Linux`
+* TypeScript / JavaScript – lenguaje principal para backend y automatización
+* Python (FastAPI) – desarrollo de APIs, procesamiento de datos, automatización y scripting
+* Node.js (Express / NestJS) – diseño de APIs, integraciones, jobs en segundo plano
+* PostgreSQL / MongoDB – modelado de datos estructurados y semi-estructurados
 
+### Frontend
 
-## Contact 📬
-- **Gmail:** [yeiderdev@gmail.com](mailto:yeiderdev@gmail.com)
+* React – experiencia sólida en desarrollo de interfaces, arquitectura de componentes y consumo de APIs
+* Astro – frontend orientado a contenido, rendimiento y simplicidad
+* Tailwind CSS – construcción rápida de interfaces consistentes
+* Figma – uso avanzado como herramienta de apoyo para desarrollo frontend (handoff, layouts, design systems)
 
-- **LinkedIn:** [https://www.linkedin.com/in/yeider-pe%C3%B1a-640311230/](https://www.linkedin.com/in/yeider-pe%C3%B1a-640311230/)
+### Automatización y tooling
 
-- **Twitter:** [@Y117536434](https://x.com/Y117536434)
+* n8n – automatización de flujos y procesos event-driven
+* Entornos Linux – scripting, despliegue y razonamiento a nivel sistema
+* Git & GitHub – versionado, estructura de proyectos y colaboración
 
+### Experiencia secundaria
 
-<!--
-**Ye1der/Ye1der** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Java (Spring Boot) – desarrollo backend y fundamentos de arquitectura
+* React Native / Flutter – desarrollo móvil en proyectos específicos
 
-Here are some ideas to get you started:
+# Contacto 📬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Email: yeiderdev@gmail.com
+* LinkedIn: https://www.linkedin.com/in/yeider-pe%C3%B1a-640311230/
+* Number: +57 321 9074881
